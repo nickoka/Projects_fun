@@ -1,0 +1,29 @@
+Unbeatable Tic-Tac-Toe:
+This game will involve the user to play first with any game piece
+the user wants to play with. The user will play against an AI that
+is unbeatable. The worst case scenario for the AI is a tie. The user
+will not be able to win. (Assuming the program works as described).
+
+If the user does win, there is an error in the program and will hopefully
+be fully fixed as time goes on.
+
+Below is a how the gameboard will be displayed:
+
+ 0 | 1 | 2
+ ---------
+ 3 | 4 | 5
+ ---------
+ 6 | 7 | 8
+
+Author:
+Nick Oka
+nickoka1250@gmail.com
+
+Credits:
+
+Resource used for tic-tac-toe strategy:
+https://www.instructables.com/id/Winning-tic-tac-toe-strategies/
+
+Usage: 
+
+python3 tic-tac-toe.py
